@@ -12,7 +12,7 @@ const Footer = () => {
             <div className={styles.footer_logo}>
               <Link href="/">
                 <Image
-                  src="/assets/CLA-Black-Horizontal-01.png"
+                  src="/assets/IMG-20240417-WA0004.jpg"
                   alt="logo"
                   width={280}
                   height={80}
@@ -95,7 +95,7 @@ const Footer = () => {
 
         <div className="row">
           <div className={styles.footer_bottom}>
-            <p>Copyright © 2023 Crypto Learning Academy. All Rights Reserved.</p>
+            <p>Copyright © 2023 Wealth Alliance Group. All Rights Reserved.</p>
           </div>
         </div>
       </div>

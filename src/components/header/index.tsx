@@ -59,7 +59,7 @@ const Header = ({ scrollToSection, sectionRefs }: any) => {
           <div className={`col-md-2 col-6 ${styles.mobile_logo} logo`}>
             <Link href="/app">
               <Image
-                src="/assets/CLA-Black-Horizontal-01.png"
+                src="/assets/IMG-20240417-WA0004.jpg"
                 alt="logo"
                 width={280}
                 height={80}

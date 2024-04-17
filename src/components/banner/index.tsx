@@ -27,7 +27,7 @@ const Banner = () => {
           <SwiperSlide>
             <div className={styles.banner_content}>
               <h1>
-                Join Crypto Learning Academy to enable your institution to unlock
+                Join Wealth Alliance Group to enable your institution to unlock
                 new revenue streams through crypto education.
               </h1>
               <div className={styles.banner_btn}>
@@ -44,7 +44,7 @@ const Banner = () => {
           <SwiperSlide>
             <div className={styles.banner_content}>
               <h1>
-                Join Crypto Learning Academy to enable your institution to unlock
+                Join Wealth Alliance Group to enable your institution to unlock
                 new revenue streams through crypto education.
               </h1>
               <div className={styles.banner_btn}>
@@ -61,7 +61,7 @@ const Banner = () => {
           <SwiperSlide>
             <div className={styles.banner_content}>
               <h1>
-                Join Crypto Learning Academy to enable your institution to unlock
+                Join Wealth Alliance Group to enable your institution to unlock
                 new revenue streams through crypto education.
               </h1>
               <div className={styles.banner_btn}>
@@ -78,7 +78,7 @@ const Banner = () => {
           <SwiperSlide>
             <div className={styles.banner_content}>
               <h1>
-                Join Crypto Learning Academy to enable your institution to unlock
+                Join Wealth Alliance Group to enable your institution to unlock
                 new revenue streams through crypto education.
               </h1>
               <div className={styles.banner_btn}>
@@ -95,7 +95,7 @@ const Banner = () => {
           <SwiperSlide>
             <div className={styles.banner_content}>
               <h1>
-                Join Crypto Learning Academy to enable your institution to unlock
+                Join Wealth Alliance Group to enable your institution to unlock
                 new revenue streams through crypto education.
               </h1>
               <div className={styles.banner_btn}>

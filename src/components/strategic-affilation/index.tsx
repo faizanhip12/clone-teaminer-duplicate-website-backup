@@ -14,7 +14,7 @@ const StrategicAffilation = () => {
         <Heading
           className="text-center"
           title="Strategic Affiliation"
-          gradienttext="Crypto Learning Academy"
+          gradienttext="Wealth Alliance Group"
         />
         <div className={styles.flex_images}>
           <Swiper
