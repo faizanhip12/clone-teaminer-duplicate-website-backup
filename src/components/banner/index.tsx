@@ -35,7 +35,7 @@ const Banner = () => {
                   text="Sign up"
                   icon={FaArrowRight}
                   variant="brown"
-                  url="https://cryptolearningacademy.com/signup/"
+                  url="https://clone-teaminer-duplicate-dashboard-backup.vercel.app/signup/"
                 />
               </div>
             </div>
@@ -52,7 +52,7 @@ const Banner = () => {
                   text="Sign up"
                   icon={FaArrowRight}
                   variant="brown"
-                  url="https://cryptolearningacademy.com/signup/"
+                  url="https://clone-teaminer-duplicate-dashboard-backup.vercel.app/signup/"
                 />
               </div>
             </div>
@@ -69,7 +69,7 @@ const Banner = () => {
                   text="Sign up"
                   icon={FaArrowRight}
                   variant="brown"
-                  url="https://cryptolearningacademy.com/signup/"
+                  url="https://clone-teaminer-duplicate-dashboard-backup.vercel.app/signup/"
                 />
               </div>
             </div>
@@ -86,7 +86,7 @@ const Banner = () => {
                   text="Sign up"
                   icon={FaArrowRight}
                   variant="brown"
-                  url="https://cryptolearningacademy.com/signup/"
+                  url="https://clone-teaminer-duplicate-dashboard-backup.vercel.app/signup/"
                 />
               </div>
             </div>
@@ -103,7 +103,7 @@ const Banner = () => {
                   text="Sign up"
                   icon={FaArrowRight}
                   variant="brown"
-                  url="https://cryptolearningacademy.com/signup/"
+                  url="https://clone-teaminer-duplicate-dashboard-backup.vercel.app/signup/"
                 />
               </div>
             </div>

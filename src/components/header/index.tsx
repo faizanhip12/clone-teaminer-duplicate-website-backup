@@ -120,7 +120,7 @@ const Header = ({ scrollToSection, sectionRefs }: any) => {
                 </li>
 
                 <li onClick={toggleDivVisibility} className={styles.signIn_btn}>
-                  <Link href="https://cryptolearningacademy.com/login/">
+                  <Link href="https://clone-teaminer-duplicate-dashboard-backup.vercel.app/login/">
                     Sign In
                   </Link>
                 </li>
@@ -130,7 +130,7 @@ const Header = ({ scrollToSection, sectionRefs }: any) => {
           <div className={`col-md-2 d-none d-lg-block ${styles.btncol}`}>
             <div className={styles.header_btn}>
               <Link
-                href="https://cryptolearningacademy.com/login/"
+                href="https://clone-teaminer-duplicate-dashboard-backup.vercel.app/login/"
                 className={styles.signin}
               >
                 Sign in
@@ -139,7 +139,7 @@ const Header = ({ scrollToSection, sectionRefs }: any) => {
                 text="Sign up"
                 icon={FaArrowRight}
                 variant="brown"
-                url="https://cryptolearningacademy.com/signup/"
+                url="https://clone-teaminer-duplicate-dashboard-backup.vercel.app/signup/"
               />
 
               {/* <AiOutlineArrowRight /> */}
