@@ -15,7 +15,7 @@ const Training = (props: IProps) => {
       source:
         "https://res.cloudinary.com/dairwfrpv/video/upload/v1685120417/ecom-empire/aboutvid-compresed_jlcmsk.mp4",
       poster: poster1,
-      title: "Crypto Basics 101",
+      title: "Weath Alliance Basics 101",
     },
     {
       source:
